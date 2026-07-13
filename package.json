@@ -1,0 +1,13 @@
+{
+  "name": "cryptobetpred-ai",
+  "version": "1.0.0",
+  "description": "Cryptobetpred.AI - AI-powered crypto, forex, and sports predictions dashboard",
+  "private": true,
+  "scripts": {
+    "start": "http-server -p 8000 -c-1",
+    "web": "http-server -p 8000 -c-1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
